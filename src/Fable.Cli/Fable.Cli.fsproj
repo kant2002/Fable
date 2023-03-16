@@ -38,7 +38,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Fable.Transforms\Fable.Transforms.fsproj" />
-    <Reference Include="../../lib/fcs/FSharp.Compiler.Service.dll" />
+    <Reference Include="../../lib/fcs/FSharp.Compiler.Service.Ukrainian.dll" />
     <Reference Include="../../lib/fcs/FSharp.DependencyManager.Nuget.dll" />
     <Reference Include="../../lib/fcs/FSharp.Core.dll" />
   </ItemGroup>
